@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="HymnPPT.exe" publicKeyToken="c35fc98d997d0d2d" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HymnPPT" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="HymnPPT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 매니페스트 옵션
+             Windows 사용자 계정 컨트롤 수준을 변경하려면 
+             requestedExecutionLevel 노드를 다음 중 하나로 바꾸십시오.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+            requestedExecutionLevel 노드를 삭제하십시오.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HymnPPT.exe" size="11776">
+      <assemblyIdentity name="HymnPPT" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ZqP3ywcA0GsMwmbLbddu3TW9BYE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Hymn.mdb" size="847872" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3S4Z3uPTXmI1pHFxjC8Htv2iRqk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HymnPPT.exe.config" size="122">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9KA+JzlusaPz4TXe3oyukw98w6U=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LEEHYUNJIN290A\leehyunjin" issuerKeyHash="261f7c224ffc639384c09d636b5a8faa626324b7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>9tv1ksmBjTq7JFHnMfOZn9pe0ak=</DigestValue></Reference></SignedInfo><SignatureValue>bZ8LBu0dHBfdBpjrraYFopNjhEGnyjWCASFJMczca4C2p9RVIDAZU0ddhjPQgCy0ytduD2NcZRUhIJvrrdraWoA3kJy//wZWbY0CVWhvZy7kPXs7RUD8w5upBQbVOAFp04Ec0Xk5SE3EddEfGRqw7iQJR0vm2UjxwP3ftCrX4OI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>28oEUoXPGYmFdDRoFwGR1yFiPNgEfBa8Cnb1VxAi6DhI1cM54YzFlvBGalyCpIx6PBz+IUvTZ12L9Pf+UeZwVSRSpRpObUSTG1xpNvid1xkaJjLUVWOM5hy9ShoyoOuLTCKuNGCpxcu+UmhzUHeJnKWMnQVQVDRIh5DQjrX0Wzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a9d15eda9f99f331e75124bb3a8d81c992f5dbf6" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="HymnPPT.exe" publicKeyToken="c35fc98d997d0d2d" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LEEHYUNJIN290A\leehyunjin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wK485pP6ddqxmaY1z5T6E2Qbyyc=</DigestValue></Reference></SignedInfo><SignatureValue>k/Nl/UH54uYzYXt3GtZvveuxigXbFx7F8gQYEawjAowgUTC/VEvs3OVr6I2XOY2Teuj3W4UHRbJ7S3BRQCwgcxZREaSdf4H4B8MhIIbpKdRwZRl95vlKUMJvS7zHXeA/eCfpHq3Y53qLB1nU7dAsw+nwKnsRDIHp1fyt5xNxrCo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>28oEUoXPGYmFdDRoFwGR1yFiPNgEfBa8Cnb1VxAi6DhI1cM54YzFlvBGalyCpIx6PBz+IUvTZ12L9Pf+UeZwVSRSpRpObUSTG1xpNvid1xkaJjLUVWOM5hy9ShoyoOuLTCKuNGCpxcu+UmhzUHeJnKWMnQVQVDRIh5DQjrX0Wzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQVCjizUVhz6JECeclKrTrKDANBgkqhkiG9w0BAQUFADA9MTswOQYDVQQDHjIATABFAEUASABZAFUATgBKAEkATgAyADkAMABBAFwAbABlAGUAaAB5AHUAbgBqAGkAbjAeFw0xMzA2MDkwNTA0NDBaFw0xNDA2MDkxMTA0NDBaMD0xOzA5BgNVBAMeMgBMAEUARQBIAFkAVQBOAEoASQBOADIAOQAwAEEAXABsAGUAZQBoAHkAdQBuAGoAaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDbygRShc8ZiYV0NGgXAZHXIWI82AR8FrwKdvVXECLoOEjVwznhjMWW8EZqXIKkjHo8HP4hS9NnXYv09/5R5nBVJFKlGk5tRJMbXGk2+J3XGRomMtRVY4zmHL1KGjKg64tMIq40YKnFy75SaHNQd4mcpYydBVBUNEiHkNCOtfRbNwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAHWFgvaaKkAvikESZEOi4eB0UUESZEtA/mtI7xdySS6Ds2z9zYDlDR10Jz24JFjjOKFnnT4pUEb87v5DY70yR8DBH476um3TlsQAayzQ7H0Md1aKBBccGUEIXQK3iyb2qmnflpc06T39tonoKaWELAeV36uaXk8x3Fa19+yNlyx0</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

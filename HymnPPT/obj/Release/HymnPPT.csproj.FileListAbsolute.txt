@@ -1,0 +1,10 @@
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\Release\HymnPPT.exe.config
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\Release\Hymn.mdb
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\Release\HymnPPT.exe
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\Release\HymnPPT.pdb
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\HymnPPT.Form1.resources
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\HymnPPT.Properties.Resources.resources
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\HymnPPT.csproj.GenerateResource.Cache
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\HymnPPT.exe
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\Release\HymnPPT.pdb

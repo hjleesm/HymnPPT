@@ -1,0 +1,15 @@
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\HymnPPT.exe.config
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\Hymn.mdb
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\HymnPPT.exe
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\HymnPPT.pdb
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.Form1.resources
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.Properties.Resources.resources
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.csproj.GenerateResource.Cache
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.exe
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.pdb
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\HymnPPT.exe.manifest
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\bin\x86\Debug\HymnPPT.application
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.TrustInfo.xml
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.exe.manifest
+C:\Users\leehyunjin\Documents\Visual Studio 2008\Projects\HymnPPT\HymnPPT\obj\x86\Debug\HymnPPT.application
